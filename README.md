@@ -1,17 +1,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:171717,100:713F12&text=Yasmin%20Portela&fontColor=F28C28&fontSize=48&fontAlignY=42&desc=ADS%20%7C%20DATA%20%26%20TECHNOLOGY&descAlignY=65&descSize=15&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111111,45:292000,100:FFD700&text=Yasmin%20Portela&fontColor=FFD700&fontSize=48&fontAlignY=38&desc=AN%C3%81LISE%20E%20DESENVOLVIMENTO%20DE%20SISTEMAS&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Banner Yasmin Portela"/>
 
 <br/>
 
-### Transformando dados em informação.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=18&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&width=600&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Dados+%7C+Tecnologia+%7C+Criatividade;SQL+%7C+Python+%7C+C+%7C+C%2B%2B)](https://git.io/typing-svg)
 
-Estudante de Análise e Desenvolvimento de Sistemas na FMU,  
-com interesse em bancos de dados, análise de dados e Business Intelligence.
+<br/>
 
-[![Email](https://img.shields.io/badge/Email-Contato-F28C28?style=flat-square&logo=gmail&logoColor=white)](mailto:yasminportelah@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Meus%20projetos-242424?style=flat-square&logo=github&logoColor=white)](https://github.com/portelayass)
+🖤 <img src="https://img.shields.io/badge/feito%20com-♥-FFD700?style=flat-square&labelColor=111111" alt="Feito com amor"/> 💛
 
 </div>
 
@@ -19,36 +17,51 @@ com interesse em bancos de dados, análise de dados e Business Intelligence.
 
 ## Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória na tecnologia por meio de estudos, projetos práticos e exploração de diferentes ferramentas.
+Estudante de Análise e Desenvolvimento de Sistemas na FMU, com interesse em bancos de dados, análise de dados e Business Intelligence.
 
-Tenho interesse em trabalhar com dados, estruturar bancos de dados, desenvolver consultas e transformar informações em análises úteis para a tomada de decisões.
+Utilizo este espaço para compartilhar projetos, documentar aprendizados e desenvolver minhas habilidades em tecnologia.
 
 ## Tecnologias e ferramentas
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-F28C28?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-242424?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,python,c,cpp,git,github,vscode&theme=dark" alt="Tecnologias e ferramentas"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=mysql&logoColor=111111" alt="SQL"/>
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FFD700" alt="Python"/>
+<img src="https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-FFD700?style=for-the-badge&logoColor=111111" alt="Análise de dados"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-111111?style=for-the-badge&logoColor=FFD700" alt="Business Intelligence"/>
 
 </div>
 
-## O que estou desenvolvendo
+---
 
-- **Banco de dados:** modelagem, consultas SQL e organização de informações.
-- **Análise de dados:** exploração de dados e construção de análises.
-- **Programação:** evolução da lógica e desenvolvimento de projetos.
-- **Business Intelligence:** interesse em dashboards e visualização de informações.
+## Projetos
 
-## Explore meus projetos
-
-Aqui você encontra meus estudos, exercícios e projetos práticos. Cada repositório representa uma etapa do meu aprendizado e da minha evolução na área de tecnologia.
+Explore meus repositórios para conhecer meus estudos e projetos práticos.
 
 <div align="center">
 
-**Vamos conectar tecnologia, dados e boas ideias.**
+<a href="https://github.com/SEU-USUARIO?tab=repositories">
+<img src="https://img.shields.io/badge/Explorar%20projetos-FFD700?style=for-the-badge&logo=github&logoColor=111111" alt="Explorar projetos"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="mailto:yasminportelah@gmail.com">
+<img src="https://img.shields.io/badge/Contato-111111?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Contato"/>
+</a>
+
+<br/><br/>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FFD700,100:111111&section=footer" width="100%" alt="Rodapé amarelo e preto"/>
 
 </div>
