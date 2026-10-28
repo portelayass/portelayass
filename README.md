@@ -9,7 +9,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/♥-FFD95A?style=flat-square&labelColor=171717" alt="Coração dourado"/>
 
 </div>
 
