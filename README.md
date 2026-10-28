@@ -53,7 +53,7 @@ Explore meus repositórios para conhecer meus estudos e projetos práticos.
 <img src="https://img.shields.io/badge/Contato-171717?style=for-the-badge&logo=gmail&logoColor=FFD95A" alt="Contato"/>
 </a>
 
-<br/><br/>
+<br/>yasminportelah@gmail.com<br/>
 
 <sub>Construindo conhecimento, um projeto de cada vez.</sub>
 
